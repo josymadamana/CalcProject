@@ -19,7 +19,7 @@ if __name__=="__main__":
 	print(mul(6,2))
 	#check 2
 	print(div(6,2))
-	print(div(6,1))
+	#print(div(6,1))
 	#print("Done")		
 	#print("Done")		
 	#print("Done")		
