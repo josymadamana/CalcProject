@@ -9,6 +9,7 @@ def div(a,b):
 		return a/b
 	except:
 		print "Exception Caught"
+		#print("Added new- check")		
 		raise
 if __name__=="__main__":
 	print(add(6,2))
@@ -19,4 +20,5 @@ if __name__=="__main__":
 	#print("Done")		
 	#print("Done")		
 	#print("Done")		
+	#print("Added new- check")		
 	
