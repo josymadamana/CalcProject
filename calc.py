@@ -15,5 +15,5 @@ if __name__=="__main__":
 	print(sub(6,2))
 	print(mul(6,2))
 	print(div(6,0))
-		
+	print("Done")		
 	
